@@ -109,8 +109,9 @@ They are not intended for production use without further evaluation and tuning.
 
 ```text
 Retesh
-Frontend Development| Data Science| AI & Machine Learning Enthusiast
+Frontend Developer | Data Science | AI & Machine Learning Enthusiast
 IT Student
+
 
 
 
