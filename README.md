@@ -53,7 +53,9 @@ Programming Language: Python
    • joblib
 ```
 # 🤖Model Type : 
-```Supervised Machine Learning```
+``` text
+Supervised Machine Learning
+```
 # 🌐Environment : 
 ``` text 
 Google Collab Notebook, VS Code, Python scripts
@@ -109,5 +111,6 @@ They are not intended for production use without further evaluation and tuning.
 Retesh
 Frontend Development| Data Science| AI & Machine Learning Enthusiast
 IT Student
+
 
 
