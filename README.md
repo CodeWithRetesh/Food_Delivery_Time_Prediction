@@ -48,7 +48,9 @@ Programming Language: Python
    • pandas
    • numpy
    • scikit-learn
-   • matplotlib / seaborn
+   • matplotlib
+   • seaborn
+   • joblib
 ```
 ## 🤖Model Type: 
 ```Supervised Machine Learning```
@@ -107,3 +109,4 @@ They are not intended for production use without further evaluation and tuning.
 Retesh
 Frontend Development| Data Science| AI & Machine Learning Enthusiast
 IT Student
+
