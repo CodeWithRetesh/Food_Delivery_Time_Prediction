@@ -52,14 +52,14 @@ Programming Language: Python
    • seaborn
    • joblib
 ```
-## 🤖Model Type: 
+# 🤖Model Type : 
 ```Supervised Machine Learning```
-## 🌐Environment: 
+# 🌐Environment : 
 ``` text 
 Google Collab Notebook, VS Code, Python scripts
 ```
 
-# 🌍 How to Run Locally:
+# 🌍 How to Run Locally :
 ## 1️⃣ Clone the repository
 ``` text 
 git clone https://github.com/CodeWithRetesh/FoodDeliveryTimePrediction.git
@@ -109,4 +109,5 @@ They are not intended for production use without further evaluation and tuning.
 Retesh
 Frontend Development| Data Science| AI & Machine Learning Enthusiast
 IT Student
+
 
