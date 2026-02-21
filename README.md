@@ -1,16 +1,16 @@
-# 🍔 Food Delivery Time Prediction
+# Food Delivery Time Prediction
 
 A machine learning–based project that predicts food delivery time using real-world data.
 This project demonstrates the complete ML workflow — from data analysis and preprocessing to model training and deployment-ready inference logic.
 
-# 📌 Project Overview
+# Project Overview :
 
 Food delivery platforms depend heavily on accurate delivery time estimation to improve user experience and operational efficiency.
 This project uses historical food delivery data to predict the estimated delivery time based on multiple features.
 
 The goal is to build a clean, structured, and reusable machine learning pipeline suitable for learning, internships, and portfolio showcasing.
 
-# 🗂️ Project Structure
+# Project Structure :
 ```text
 FoodDeliveryTimePrediction/
 │
@@ -41,9 +41,7 @@ FoodDeliveryTimePrediction/
 └── .gitignore
     # Ignored files and folders
 ```
-# ⚙️ Tech Stack Used
-Programming Language: Python
- Libraries & Tools:
+# Tech Stack Used :
  ```
    • pandas
    • numpy
@@ -52,16 +50,16 @@ Programming Language: Python
    • seaborn
    • joblib
 ```
-# 🤖Model Type : 
+# Model Type : 
 ``` text
 Supervised Machine Learning
 ```
-# 🌐Environment : 
+# Environment : 
 ``` text 
 Google Collab Notebook, VS Code, Python scripts
 ```
 
-# 🌍 How to Run Locally :
+# How to Run Locally :
 ## 1️⃣ Clone the repository
 ``` text 
 git clone https://github.com/CodeWithRetesh/FoodDeliveryTimePrediction.git
@@ -80,7 +78,7 @@ python app/app.py
 ```
 • No additional setup is required if dependencies are installed correctly.
 
-# 🎯 Purpose of This Project :
+# Purpose of This Project :
 ``` text
 This project was created for learning and practical exposure, focusing on:
    • Understanding end-to-end machine learning workflow
@@ -94,23 +92,24 @@ It can also be used as:
    • A hackathon submission
    • A machine learning practice project
 ```
-# 📊 Dataset Information :
+# Dataset Information :
 ``` text
 • The dataset contains historical food delivery records.
 • Features include delivery-related attributes used to predict delivery time.
 • The dataset is included for educational and demonstration purposes.
 ```
 
-# ⚠️ Note on Model Files :
+# Note on Model Files :
 Model files (.pkl) are included for demonstration and inference purposes only.
 They are not intended for production use without further evaluation and tuning.
 
-# 👨‍💻 Author
+# Author
 
 ```text
 Retesh
 Frontend Developer | Data Science | AI & Machine Learning Enthusiast
 IT Student
+
 
 
 
